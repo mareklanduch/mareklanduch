@@ -1,9 +1,9 @@
 ## Hi there 👋
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mareklanduch&show_icons=true&theme=rose_pine&card_width=495)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mareklanduch&show_icons=true&theme=cobalt&card_width=495)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mareklanduch&layout=compact&theme=rose_pine&card_width=495)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mareklanduch&layout=compact&theme=cobalt&card_width=495)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mareklanduch&theme=rose_pine)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mareklanduch&theme=dark)
 
 <!--
 **mareklanduch/mareklanduch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
