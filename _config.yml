@@ -6,7 +6,16 @@ baseurl: ""
 url: "https://mareklanduch.github.io"
 github_username: mareklanduch
 
-# Build settings
-theme: minima
+author:
+  name: "Marek Łańduch"
+  bio: "C# enthusiast"
+  email: "landuch@gmail.com"
+  github: "mareklanduch"
+  linkedin: "landuch"
+
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "sunrise"
+
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
