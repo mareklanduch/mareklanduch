@@ -1,0 +1,12 @@
+title: Marek Łańduch
+email: landuch@gmail.com
+description: >-
+  C# enthusiast
+baseurl: ""
+url: "https://mareklanduch.github.io"
+github_username: mareklanduch
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
